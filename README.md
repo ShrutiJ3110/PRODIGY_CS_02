@@ -59,5 +59,20 @@ After running the script, encrypted or decrypted images will be saved in the `ou
 - **decrypt_image**: Decrypts the image using the reverse process of encryption.
 - **process_images**: Processes all images in a specified folder based on the chosen action (encrypt or decrypt).
 
+## Let's Connect!
+
+Dive into the repository, share your thoughts, or reach out for discussions on programming, algorithms, or any related topics. I'm excited to learn and grow together with like-minded individuals!
+
+## Contact Information
+
+For questions, feedback, or collaboration opportunities, feel free to reach out.
+
+- **Email:** [shrutisjoshi3110@gmail.com](mailto:shrutisjoshi3110@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/shruti-joshi-572820297/](https://www.linkedin.com/in/shruti-joshi-572820297))
+
+
+Thank you for your interest in this project. Happy coding! 🚀
+
+
 
 
