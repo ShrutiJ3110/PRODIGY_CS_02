@@ -16,12 +16,12 @@ To use this tool, ensure you have Python 3.x installed on your machine.
 git clone https://github.com/your-username/PRODIGY_CS_02.git
 cd PRODIGY_CS_02
 
-### **Step 2: Install Required Libraries**
+**### Step 2: Install Required Libraries**
 Ensure you have Python installed on your system. Install the necessary libraries by running:
 ```bash
 pip install -r requirements.txt
 
-### **Step 3: Run the Tool**
+**### Step 3: Run the Tool**
 
 You can use the following commands to encrypt or decrypt images in a folder.
 
