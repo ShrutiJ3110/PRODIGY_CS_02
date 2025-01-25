@@ -18,7 +18,8 @@ To use this tool, ensure you have Python 3.x installed on your machine.
 ```bash
 git clone https://github.com/your-username/PRODIGY_CS_02.git
 cd PRODIGY_CS_02
-Step 2: Install required libraries
+
+###Step 2: Install required libraries
 Install the necessary dependencies using pip:
 
 bash
