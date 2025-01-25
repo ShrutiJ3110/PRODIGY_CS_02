@@ -20,4 +20,41 @@ cd PRODIGY_CS_02
 ### **Step 2: Install Required Libraries**
 Ensure you have Python installed on your system. Install the necessary libraries by running:
 ```bash
+pip install -r requirements.txtStep 2: Install required libraries
+Install the necessary dependencies using pip:
+
+bash
+Copy
 pip install -r requirements.txt
+Step 3: Run the tool
+You can use the following commands to encrypt or decrypt images in a folder.
+
+To encrypt images:
+bash
+Copy
+python image_encryption_decryption.py encrypt
+To decrypt images:
+bash
+Copy
+python image_encryption_decryption.py decrypt
+Method Choices
+When running the tool, you will be prompted to choose between the following encryption methods:
+
+swap: Swaps the red and blue channels of the image.
+math: Performs a mathematical operation (add, subtract, multiply, divide) with a user-defined key.
+Supported Image Formats
+PNG
+JPG
+JPEG
+Example
+After running the script, encrypted or decrypted images will be saved in the output_images folder.
+
+Code Walkthrough
+Functions:
+encrypt_image: Encrypts the image based on the selected method and key.
+decrypt_image: Decrypts the image using the reverse process of encryption.
+process_images: Processes all images in a specified folder based on the chosen action (encrypt or decrypt).
+Contributing
+Feel free to fork this project, create a pull request, or contribute in any way. If you find bugs or have suggestions for improvements, please create an issue.
+
+
